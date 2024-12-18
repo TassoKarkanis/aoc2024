@@ -44,6 +44,39 @@ answers = {
     
     "p14_part1": 216027840,
     "p14_part2": 6876,
+    
+    "p15_part1": 1294459,
+    "p15_part2": 1319212,
+    
+    "p16_part1": 0,
+    "p16_part2": 0,
+    
+    "p17_part1": 0,
+    "p17_part2": 0,
+    
+    "p18_part1": 0,
+    "p18_part2": 0,
+    
+    "p19_part1": 0,
+    "p19_part2": 0,
+    
+    "p20_part1": 0,
+    "p20_part2": 0,
+    
+    "p21_part1": 0,
+    "p21_part2": 0,
+    
+    "p22_part1": 0,
+    "p22_part2": 0,
+    
+    "p23_part1": 0,
+    "p23_part2": 0,
+    
+    "p24_part1": 0,
+    "p24_part2": 0,
+    
+    "p25_part1": 0,
+    "p25_part2": 0,
 }
 
 def run_func(name):
