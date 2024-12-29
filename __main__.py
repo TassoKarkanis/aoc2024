@@ -70,8 +70,8 @@ answers = { "p01_part1": 1646452, "p01_part2": 23609874,
             "p23_part1": 1000,
             "p23_part2": "cf,ct,cv,cz,fi,lq,my,pa,sl,tt,vw,wz,yd",
             
-            "p24_part1": 0,
-            "p24_part2": 0,
+            "p24_part1": 45121475050728,
+            "p24_part2": "gqp,hsw,jmh,mwk,qgd,z10,z18,z33",
             
             "p25_part1": 0,
             "p25_part2": 0,
