@@ -73,7 +73,7 @@ answers = { "p01_part1": 1646452, "p01_part2": 23609874,
             "p24_part1": 45121475050728,
             "p24_part2": "gqp,hsw,jmh,mwk,qgd,z10,z18,z33",
             
-            "p25_part1": 0,
+            "p25_part1": 3508,
             "p25_part2": 0,
            }
 
